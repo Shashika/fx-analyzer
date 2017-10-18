@@ -2,12 +2,14 @@
 
 Java web application to analyze foreign exchange deals. Application is capable to handle thousands of records in CSV format within few seconds.
 
-1. CSV format 
-2. Record ID
-3. Currency From (ISO format)
-4. Currency To (ISO format)
-5. Timestamp
-6. Tansaction Amount
+![Alt text](src/main/webapp/resources/images/screenshot.png?raw=true "Title")
+
+ **CSV format** 
+1. Record ID
+2. Currency From (ISO format)
+3. Currency To (ISO format)
+4. Timestamp
+5. Tansaction Amount
 
 Application contains a dummy CSV file creator with random data `CSVCreator`. Generated file will be stored `src/main/resources/files` directory.
 
