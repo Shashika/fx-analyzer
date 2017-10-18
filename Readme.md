@@ -1,3 +1,5 @@
+##FX-Analyzer (Foriegn Exchange Analyzer)
+
 Java web application to analyze foreign exchange deals. Application is capable to handle thousands of records in CSV format within few seconds.
 
 1. CSV format 
