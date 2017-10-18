@@ -1,4 +1,4 @@
-##FX-Analyzer (Foriegn Exchange Analyzer)
+## FX-Analyzer (Foriegn Exchange Analyzer)
 
 Java web application to analyze foreign exchange deals. Application is capable to handle thousands of records in CSV format within few seconds.
 
